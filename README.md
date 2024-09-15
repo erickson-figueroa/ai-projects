@@ -14,7 +14,7 @@ Welcome to the <strong>AI Projects</strong> repository! This repository features
   <tbody>
     <tr>
       <td><a href="https://github.com/erickson-figueroa/ai-real-estate-app"><strong>The AI Real Estate Application</strong></a></td>
-      <td>leverages state-of-the-art artificial intelligence to streamline the home-finding process.</td>
+      <td>Leverages artificial intelligence to streamline the housing search process.</td>
     </tr>
     <tr>
       <td><a href="Chatbot_Generative_AI"><strong>Chatbot using Generative AI</strong></a></td>
