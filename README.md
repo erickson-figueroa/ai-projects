@@ -1,4 +1,4 @@
-# AI Projects 🤖
+# AI Projects (under construction) 🤖
 
 <p>
 Welcome to the <strong>AI Projects</strong> repository! This repository features a collection of AI-based projects, showcasing various techniques in AI applications, including deep learning, natural language processing (NLP), generative AI, large language models (LLMs), and more.
